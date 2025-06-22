@@ -1,0 +1,698 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "DOC_WITH_GUN(WALK_TEMPLATE)1",
+					"polys": 647,
+					"verts": 347
+				}
+			],
+			"name": "doctor"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "21",
+			"sequence": 34,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "21",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "31",
+			"sequence": 38,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "31",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 0,
+			"options": "51",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 0,
+			"options": "51",
+			"sequence": 44,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 52,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "50882873b4d159f5f2feaf614eca85a7",
+	"name": "doctor.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 25,
+			"name": "walk"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 25,
+			"name": "walk"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 27,
+			"name": "walkjump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 27,
+			"name": "walkjump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 25,
+			"name": "walk"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 25,
+			"name": "walk"
+		}, 
+		{
+			"fps": 31.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 31.000000,
+			"frames": 25,
+			"name": "walk"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 237,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 6,
+			"name": "walkshoot"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 42,
+			"name": "die1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 42,
+			"name": "die1"
+		}
+	],
+	"size": 212424,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 24
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 71,
+			"name": "Glove_Btm1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 123,
+			"name": "Front_1.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 0,
+			"height": 119,
+			"name": "Back_1.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 0,
+			"height": 46,
+			"name": "TopSuit1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 68,
+			"name": "Glove_Top1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "Face_1.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 88,
+			"name": "Side_of_Head1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "Top_O_Foot.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 45,
+			"name": "Back_o_Hair1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 55,
+			"name": "Foot_btm1.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 32,
+			"height": 34,
+			"name": "Gun_Side1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 32,
+			"height": 49,
+			"name": "GunTip1.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}
