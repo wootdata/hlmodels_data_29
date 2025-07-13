@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "halloween",
-					"polys": 685,
-					"verts": 393
+					"name": "botD",
+					"polys": 2621,
+					"verts": 1505
 				}
 			],
 			"name": "body"
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098021900,
+	"date": 1357234190,
 	"events": [
 		{
 			"event": 2001,
@@ -118,64 +118,64 @@
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 35,
+			"sequence": 34,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 37,
+			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 39,
+			"sequence": 38,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 41,
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 43,
+			"sequence": 42,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 45,
+			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 51,
+			"sequence": 50,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 53,
+			"sequence": 52,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "a8df698881db5271abee10c5fd43df16",
+	"md5": "ab222483c6767b03a08708e0159918ad",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "dummy/models/player/dummy/halloween.mdl",
+	"name": "BotD.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -183,7 +183,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "look_idle"
+			"name": "Koshak_HL"
 		}, 
 		{
 			"fps": 14.000000,
@@ -306,18 +306,13 @@
 			"name": "gutshot"
 		}, 
 		{
-			"fps": 5.000000,
-			"frames": 5,
-			"name": "ref_shoot_akick"
-		}, 
-		{
 			"fps": 12.000000,
 			"frames": 31,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 5,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 501584,
+	"size": 821284,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,20 +641,44 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -667,39 +686,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 75,
-			"name": "eye.bmp",
-			"width": 76
+			"height": 512,
+			"name": "BotDBodyA.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 257,
-			"name": "hal4.bmp",
-			"width": 516
-		}, 
-		{
-			"flags": 0,
-			"height": 150,
-			"name": "shirt.bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 269,
-			"name": "jeans.bmp",
-			"width": 176
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "arm.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 247,
-			"name": "black.bmp",
-			"width": 240
+			"height": 512,
+			"name": "BotDHeadA.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

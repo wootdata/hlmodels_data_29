@@ -20,15 +20,20 @@
 		{
 			"models": [
 				{
-					"name": "halloween",
-					"polys": 685,
-					"verts": 393
+					"name": "../dmatch/obi01/Robot",
+					"polys": 770,
+					"verts": 392
+				}, 
+				{
+					"name": "../dmatch/obi01/Robot",
+					"polys": 770,
+					"verts": 392
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098021900,
+	"date": 1569078836,
 	"events": [
 		{
 			"event": 2001,
@@ -118,66 +123,66 @@
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 35,
+			"sequence": 34,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 37,
+			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 39,
+			"sequence": 38,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 41,
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 43,
+			"sequence": 42,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 45,
+			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 51,
+			"sequence": 50,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 53,
+			"sequence": 52,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "a8df698881db5271abee10c5fd43df16",
+	"md5": "03fed43181214086698324c776e77791",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "dummy/models/player/dummy/halloween.mdl",
+	"name": "player/obi01/obi01.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -306,18 +311,13 @@
 			"name": "gutshot"
 		}, 
 		{
-			"fps": 5.000000,
-			"frames": 5,
-			"name": "ref_shoot_akick"
-		}, 
-		{
 			"fps": 12.000000,
 			"frames": 31,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 5,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 501584,
+	"size": 317824,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -667,39 +667,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 75,
-			"name": "eye.bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 257,
-			"name": "hal4.bmp",
-			"width": 516
-		}, 
-		{
-			"flags": 0,
-			"height": 150,
-			"name": "shirt.bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 269,
-			"name": "jeans.bmp",
-			"width": 176
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "arm.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 247,
-			"name": "black.bmp",
-			"width": 240
+			"height": 256,
+			"name": "Remap0_000_255_255.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

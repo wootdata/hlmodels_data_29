@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "halloween",
-					"polys": 685,
-					"verts": 393
+					"name": "reference",
+					"polys": 886,
+					"verts": 457
 				}
 			],
 			"name": "body"
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098021900,
+	"date": 1098019440,
 	"events": [
 		{
 			"event": 2001,
@@ -118,64 +118,64 @@
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 35,
+			"sequence": 34,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 37,
+			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 39,
+			"sequence": 38,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
-			"sequence": 41,
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 43,
+			"sequence": 42,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
-			"sequence": 45,
+			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 51,
+			"sequence": 50,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
 			"options": "40",
-			"sequence": 53,
+			"sequence": 52,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "a8df698881db5271abee10c5fd43df16",
+	"md5": "9d3981314d434e0e90e0500db8cf8aba",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "dummy/models/player/dummy/halloween.mdl",
+	"name": "F:\\Games\\RivalSpecies_0.3\\mp_at_\\hawk_01\\compile\\at_hawk_01.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -306,18 +306,13 @@
 			"name": "gutshot"
 		}, 
 		{
-			"fps": 5.000000,
-			"frames": 5,
-			"name": "ref_shoot_akick"
-		}, 
-		{
 			"fps": 12.000000,
 			"frames": 31,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 5,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 501584,
+	"size": 354588,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,20 +641,68 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -667,39 +710,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 75,
-			"name": "eye.bmp",
-			"width": 76
+			"height": 256,
+			"name": "hawk.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 257,
-			"name": "hal4.bmp",
-			"width": 516
-		}, 
-		{
-			"flags": 0,
-			"height": 150,
-			"name": "shirt.bmp",
-			"width": 76
-		}, 
-		{
-			"flags": 0,
-			"height": 269,
-			"name": "jeans.bmp",
-			"width": 176
-		}, 
-		{
-			"flags": 0,
-			"height": 200,
-			"name": "arm.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 247,
-			"name": "black.bmp",
-			"width": 240
+			"height": 256,
+			"name": "wing.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
