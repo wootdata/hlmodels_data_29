@@ -1,0 +1,16 @@
+SKIN NAME: ALIEN_GRUNT (1/2 man, 2/3 alien, all cosmic killer!)
+
+AUTHOR: the infamous Mudshark (author or the "pimp" skin which no one has downloaded).
+
+SKIN BASE: The Human grunt model,with some images from the alien slave from the singal player game.
+
+EDITORS USED:MDLV2 model editor and Microsoft Paint Brush(TM).
+
+INFO: For some unknown reason, an average soilder and an average alien slave were suddely fused together during the massive firefight at the Black Mesa faculity.
+With molecules combined and an urge to kill, it unleases it self into..ect,ect,ect. 
+To instal, simply unzip this into your model directory in Half-Life, then make a folder called "alien_grunt".
+The go to customize and your off.
+
+HAVE FUN!!! 
+
+-Mudshark

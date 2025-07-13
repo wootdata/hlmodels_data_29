@@ -1,0 +1,34 @@
+Michael Myers. New skin, unchanged model.
+
+Place the mmyers files in a folder called mmyers in the
+
+\sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+Ever seen the Halloween movies? I haven't, but I got a suggestion to
+make a Mike Myers skin (I think that's how it's spelt, thats how it was
+spelt on the site I went to) so I went to a Halloween site and got some
+pictures of him. I'm not sure about the colours or what he should look
+like from the waist down, because the pictures were black and white and
+from the waist up.
+
+Credits to:
+Radiation Burn (http://www.planethalflife/burn) for being such an excellent site ;)
+id for Quake and Quake2
+Niai of the Scientist Killing Club for linking to my site.
+Valve for Half-Life
+Otis, Ascent and Dark Yoda for the lovely Mdlviewer
+Mark Anthony Greco AkA {MichaelMeyers666} for suggesting that I do the
+skin.
+
+Gumby
+gumby@brand15.freeserve.co.uk
+http://www.brand15.freeserve.co.uk

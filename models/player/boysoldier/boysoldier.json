@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,20 +20,20 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/obi01/Robot",
-					"polys": 770,
-					"verts": 392
+					"name": "lowcount/scientist/DM_Scientist_Biped1",
+					"polys": 380,
+					"verts": 203
 				}, 
 				{
-					"name": "../dmatch/obi01/Robot",
-					"polys": 770,
-					"verts": 392
+					"name": "highcount/scientist/DM_ScienceBiped1",
+					"polys": 710,
+					"verts": 369
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098058440,
+	"date": 1098056100,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "8317e75caef5b4c48b2cd5c935b0b067",
+	"md5": "17a0df0d46c02b7cc7765d4379fc99ee",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/obi01/obi01.mdl",
+	"name": "C:/games/half-life/valve/models/player/3eye/3eye.mdl",
 	"preview": false,
 	"readme": true,
 	"seq_groups": "1",
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 317824,
+	"size": 329272,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,20 +646,44 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -668,8 +692,14 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "null.bmp",
+			"name": "DM_Base.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

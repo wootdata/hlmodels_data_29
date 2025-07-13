@@ -1,0 +1,14 @@
+Skinner: [DADS]s|inger
+Skin Name: dads3
+Model: etac 
+Date: January 26, 2003
+
+Character Info:
+This skin was created as a [DADS] team play model. I used the "etac" model for the base and reskinned about 85% of the original design. 
+
+Install Notes:
+Create a directory called "dads3" in your half-life/valve/models/player/ folder and copy all the files in to the dads3 folder. 
+
+[DADS]S|inger
+slinger@dadsclan.com
+http://www.dadsclan.com

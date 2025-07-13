@@ -1,1 +1,20 @@
-Modified to support team coloring by Xawari.
+Kamikaze Robot
+
+2d art: [BMA]Mist
+3d art: Obi Wan
+
+This is basically a red and black skin for the obi01(Robot) model.
+
+This is my second skin. Finished february 20, 1999.
+
+In your SIERRA\Half-life\valve\models\player folder create a new folder called kamikaze.
+In this folder then put kamikaze.mdl and kamikaze.bmp.
+
+Other skins by [BMA]Mist:
+Spider-Man
+
+Feedback to womhalflife@hotmail.com
+Go to the Black Mesa Assassins Clan Page:
+http://www.angelfire.com/mb/SmilzPage2/test.html
+
+Let's get Mistified!!!

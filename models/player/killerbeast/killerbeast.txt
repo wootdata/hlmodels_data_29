@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: Killer beast
+Model Used: Michigan by Evil bastard. 
+
+
+This skin is a request by a chap called killer beast.
+
+Installation of Plugin
+
+Create a folder called killerbeast in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
