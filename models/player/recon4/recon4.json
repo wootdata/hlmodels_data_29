@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1597689177,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3d2571ec9bb86bc5c66a11f41d8a2561",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\recon16\\recon16.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

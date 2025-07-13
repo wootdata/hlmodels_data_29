@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -85,6 +86,7 @@
 			"type": 32
 		}
 	],
+	"date": 1624136655,
 	"events": [
 		{
 			"event": 2001,
@@ -194,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4f2b8e2b2c184a04eaf0cea84aa74314",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "new_medic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

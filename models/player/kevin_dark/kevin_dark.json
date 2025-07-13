@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1199182238,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2b8bc06dc2302048152c783a064704fd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kevin_bw.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

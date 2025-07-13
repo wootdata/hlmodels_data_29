@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1407524141,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e94b62ecd0ca662643858e40ec4a7b5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "PFButch.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

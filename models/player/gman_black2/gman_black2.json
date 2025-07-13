@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1366001724,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c017a6f6390c0ba72f0948d8dac92b9f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/gman/Gman.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

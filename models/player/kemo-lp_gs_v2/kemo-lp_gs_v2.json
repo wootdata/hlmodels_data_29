@@ -48,6 +48,7 @@
 			"name": "hair"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -82,6 +83,7 @@
 			"type": 8
 		}
 	],
+	"date": 1712919834,
 	"events": [
 		{
 			"event": 2001,
@@ -191,7 +193,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8268ed41523e41c121ab40966bff0f42",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kemo-lp_gs.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

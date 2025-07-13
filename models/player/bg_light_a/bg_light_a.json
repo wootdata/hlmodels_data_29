@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -57,6 +58,7 @@
 			"type": 8
 		}
 	],
+	"date": 1607968521,
 	"events": [
 		{
 			"event": 2001,
@@ -166,7 +168,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f1c5fd10df7a4cd285a9c0a77a5ca58e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "light_a.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

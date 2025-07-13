@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1679935607,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "52233c02bc52570c3368a56da3bfb99b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\PeachBrawl\\PeachBrawl.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

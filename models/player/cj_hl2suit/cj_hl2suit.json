@@ -58,6 +58,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1608659847,
 	"events": [
 		{
 			"event": 2001,
@@ -215,7 +217,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afd8ccadd445cfd0e8d51b8d75565b2f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cj_TCsuit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

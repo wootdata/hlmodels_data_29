@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -75,6 +76,7 @@
 			"type": 32
 		}
 	],
+	"date": 1592434795,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3e50abfe5bcf8ac39fd26e0ae842a622",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\helmet\\Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1509698546,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9ee70e8f4bc9f3d9addeccb2d54c8b2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\ELIZABETH MENA\\Favorites\\Desktop\\gman\\Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

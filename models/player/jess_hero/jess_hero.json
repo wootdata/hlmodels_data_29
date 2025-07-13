@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1561583444,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a7d2e73149644dbf89fa5fbf7b71bf50",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Jess_Hero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

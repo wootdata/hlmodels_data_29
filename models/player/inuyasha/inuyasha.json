@@ -58,6 +58,7 @@
 			"name": "kotodama"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1375225376,
 	"events": [
 		{
 			"event": 2001,
@@ -439,7 +441,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb65cbaad1315dec0992fcd05a01b79e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XInuYasha.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

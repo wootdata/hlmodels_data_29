@@ -33,6 +33,7 @@
 			"name": "crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1438226050,
 	"events": [
 		{
 			"event": 2001,
@@ -232,7 +234,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d16b5c99a259ead69e3637181cab27fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

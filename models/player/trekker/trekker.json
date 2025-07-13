@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1207345792,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "65c812ee48295ad125fe24c9344b5580",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "d:/half-life/SDK/PlayerModels/DMatch/Trekker.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
