@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "dummy/models/player/dummy/halloween.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
