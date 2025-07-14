@@ -175,6 +175,7 @@
 	"md5": "a8df698881db5271abee10c5fd43df16",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "dummy/models/player/dummy/halloween.mdl",
 	"preview": true,
 	"readme": false,

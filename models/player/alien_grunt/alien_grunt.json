@@ -175,6 +175,7 @@
 	"md5": "f50fba475b4890fadbdabdd3e9543984",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Hgrunt/Hgrunt.mdl",
 	"preview": false,
 	"readme": true,
