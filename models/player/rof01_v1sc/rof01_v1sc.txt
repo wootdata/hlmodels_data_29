@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rof01
+Source Model Hash : 576db339e4c1e2596f628b92ad5ed63d
+Source Model Date : 1269359975 (2010/03/23)
+
+Ported Model Name : rof01_v1sc
+Ported Model Hash : 46905700df94de2d82f9ca8d96cfc3f6
+Ported Model Date : 1752492220 (2025/07/14)

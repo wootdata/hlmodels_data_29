@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_pekora_lowpoly
+Source Model Hash : 006dd74f8a31b65e5e45ad66916bcae7
+Source Model Date : 1618413114 (2021/04/14)
+
+Ported Model Name : holo_pekora_lp_v1sc
+Ported Model Hash : 5621b88081adc3153fd99855d945ee17
+Ported Model Date : 1752491826 (2025/07/14)

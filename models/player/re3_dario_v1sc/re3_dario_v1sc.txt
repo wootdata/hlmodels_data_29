@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re3_dario
+Source Model Hash : 40f87b40afd188e1ff105c92847c793a
+Source Model Date : 1236290066 (2009/03/05)
+
+Ported Model Name : re3_dario_v1sc
+Ported Model Hash : dde917290411b87dcf52b2c6aef8219a
+Ported Model Date : 1752492191 (2025/07/14)

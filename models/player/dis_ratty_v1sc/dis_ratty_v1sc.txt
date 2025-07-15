@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dis_ratty
+Source Model Hash : 8f195d4a8432246a614e7eab7e61f3b5
+Source Model Date : 1524153076 (2018/04/19)
+
+Ported Model Name : dis_ratty_v1sc
+Ported Model Hash : ef10efd464c5e6a485251606268fd006
+Ported Model Date : 1752491600 (2025/07/14)

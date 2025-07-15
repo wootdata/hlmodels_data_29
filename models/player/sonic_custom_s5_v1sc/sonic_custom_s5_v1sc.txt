@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonic_custom_s5
+Source Model Hash : fb7c810e33178e83b87d7f2af9171593
+Source Model Date : 1455579263 (2016/02/15)
+
+Ported Model Name : sonic_custom_s5_v1sc
+Ported Model Hash : b6646abf6ae789104ae0c0bf7d79ffc0
+Ported Model Date : 1752492296 (2025/07/14)

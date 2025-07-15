@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyborg_ninja_stealth
+Source Model Hash : e50776b9936ec7694c80636feade9df1
+Source Model Date : 1236892386 (2009/03/12)
+
+Ported Model Name : cyborg_ninja_invs_v1sc
+Ported Model Hash : cfbbacfadd31378d35cb5b0fd44d2943
+Ported Model Date : 1752491574 (2025/07/14)

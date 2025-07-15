@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfc_soldier
+Source Model Hash : 5910ea34186ea15c00ba120c79ce0335
+Source Model Date : 1460177830 (2016/04/08)
+
+Ported Model Name : tfc_soldier_v1sc
+Ported Model Hash : f057deac9857cb5064d0c73e4b9ad6ae
+Ported Model Date : 1752492408 (2025/07/14)

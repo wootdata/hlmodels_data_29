@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gman_wait
+Source Model Hash : 24582c40b2fa06fcd09a4d52ceeb9e04
+Source Model Date : 1293464518 (2010/12/27)
+
+Ported Model Name : gman_wait_v1sc
+Ported Model Hash : d0ca145e37fde1373b51e9e780d2bbe0
+Ported Model Date : 1752491729 (2025/07/14)

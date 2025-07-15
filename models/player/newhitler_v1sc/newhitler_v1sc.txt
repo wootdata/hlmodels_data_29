@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : newhitler
+Source Model Hash : d82baf284b84c5061e05434e91957d8d
+Source Model Date : 1493246492 (2017/04/26)
+
+Ported Model Name : newhitler_v1sc
+Ported Model Hash : 1aa4f6a641e88b38b6589499e36d689f
+Ported Model Date : 1752492091 (2025/07/14)

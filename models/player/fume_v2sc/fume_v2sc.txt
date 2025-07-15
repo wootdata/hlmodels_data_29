@@ -1,0 +1,34 @@
+Skinner/modeler: SlimReapeR
+Skin Name: Fume
+Model Used: Fume (base model:Punisher)
+
+
+Fume is an member of a secret U.S. government squad of elite soldiers called
+The Shoguns. These guys are used only when extreme predudice, above and beyond the call
+of duty is required. The Shoguns primary use is close combat and use special shotguns that fire slugs of depleted Uranium. There primary objective is to kill anything that doesn't show the shoguns unit badge upon there chest.
+
+Installation of Plugin
+
+Create a folder called fume  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fume_v2
+Source Model Hash : 67646a47e4b7c3aa4aa9174ad6da2820
+Source Model Date : 1590731713 (2020/05/28)
+
+Ported Model Name : fume_v2sc
+Ported Model Hash : 4c8f07efc2f51770d4c172cb5b1dc610
+Ported Model Date : 1752491663 (2025/07/14)

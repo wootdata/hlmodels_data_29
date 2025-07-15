@@ -1,0 +1,58 @@
+Dr. James PULP FICTION MODELS for Half-Life v1.0
+------------------------------------------------
+
+Hi people!
+
+This time I have created multiplayer models looking like VINCENT VEGA and
+JULES WINNFIELD from the movie PULP FICTION. They look very cool in Deathmatch,
+and they have their cheap black suits with ties, etc...
+I hope you like them!
+
+
+INSTALLATION
+------------
+
+To install this models, just copy PFVINCENT.MDL and PFVINCENT.BMP to a folder
+called \VALVE\MODELS\PLAYER\PFVINCENT in your Half-Life directory.
+
+For example if Half-Life ist installed in C:\HALF-LIFE you have to create
+a folder called C:\HALF-LIFE\VALVE\MODELS\PLAYER\PFVINCENT and copy these files
+into it.
+
+Repeat these steps for the JULES model. (You have to replace PFVINCENT with
+PFJULES, though)
+
+
+CONTACT & DISTRIBUTION
+----------------------
+
+This models can AND SHOULD BE freely distributed as long as this text file
+is included and they are unmodified. If you wish to include them in a
+compilation, Mod or commercial product, please email me first.
+
+If you have any comments or suggestions, please email me at dr.james@gmx.net.
+For other Half-Life addons done by me, please visit my homepage at
+http://members.xoom.com/hagidrj.
+
+
+have phun,
+<--Dr.James-->
+
+----------------------------------------
+URL:     http://members.xoom.com/hagidrj
+EMAIL:   dr.james@gmx.net
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pfjules
+Source Model Hash : 5f44d387932a2e6e9d0cc6e0e9a37368
+Source Model Date : 1265792928 (2010/02/10)
+
+Ported Model Name : pfjules_v1sc
+Ported Model Hash : f7bc38d21f33eef14c2ce0fb41a89cd2
+Ported Model Date : 1752492155 (2025/07/14)

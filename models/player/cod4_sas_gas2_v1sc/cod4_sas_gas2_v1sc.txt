@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod4_sas_gas2
+Source Model Hash : 7d479db03c23cdd7c21fb0d926318a1f
+Source Model Date : 1283020158 (2010/08/28)
+
+Ported Model Name : cod4_sas_gas2_v1sc
+Ported Model Hash : fd0fa2ff921449750d4fd0e6add84557
+Ported Model Date : 1752491493 (2025/07/14)

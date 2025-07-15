@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : prisoner_bum_tickly
+Source Model Hash : 111706d04bd5c52614171dcdd5ab2414
+Source Model Date : 1535813545 (2018/09/01)
+
+Ported Model Name : pris_bum_tickly_v1sc
+Ported Model Hash : 5575a10b1030d3b167f6f78aa0bf7f8b
+Ported Model Date : 1752492168 (2025/07/14)

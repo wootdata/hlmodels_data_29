@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_greth2017
+Source Model Hash : 138622b1259a00639175c54bdbb09571
+Source Model Date : 1457730565 (2016/03/11)
+
+Ported Model Name : fp_greth2017_v1sc
+Ported Model Hash : 3866e4254cf6a7b9e42f4dd2922b7d61
+Ported Model Date : 1752491658 (2025/07/14)

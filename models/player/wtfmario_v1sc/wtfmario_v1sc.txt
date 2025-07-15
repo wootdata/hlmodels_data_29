@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wtfmario
+Source Model Hash : a7fe22df28b4bb116d84cf7fa91c74a7
+Source Model Date : 1678732391 (2023/03/13)
+
+Ported Model Name : wtfmario_v1sc
+Ported Model Hash : 0fbcb91cc1a48e6c5ffff8a37c8df233
+Ported Model Date : 1752492513 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_shikamaru
+Source Model Hash : 2518261bf013cffb95b935fba1685649
+Source Model Date : 1236392212 (2009/03/06)
+
+Ported Model Name : naruto_shikamaru_v1sc
+Ported Model Hash : a4a29a7ab7c2dc641a829d8933e03d3f
+Ported Model Date : 1752492070 (2025/07/14)

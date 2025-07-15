@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buttercup
+Source Model Hash : d4039e3a65250a559c0e6fdcdaee8a60
+Source Model Date : 1425580255 (2015/03/05)
+
+Ported Model Name : buttercup_v1sc
+Ported Model Hash : 1b06144d965949b0950aa45f8a50000a
+Ported Model Date : 1752491456 (2025/07/14)

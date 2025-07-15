@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legends_rogue_v2
+Source Model Hash : 68b02fe99abd6dd10fecf58b89a30170
+Source Model Date : 1583651694 (2020/03/07)
+
+Ported Model Name : legends_rogue_v2sc
+Ported Model Hash : 03b25d290fee8d834c3fd6a00a8729e5
+Ported Model Date : 1752491945 (2025/07/14)

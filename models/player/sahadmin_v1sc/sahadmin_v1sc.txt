@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sahadmin
+Source Model Hash : 0fe53a2a3377f20c7b9f6a9319ead95e
+Source Model Date : 1269685869 (2010/03/27)
+
+Ported Model Name : sahadmin_v1sc
+Ported Model Hash : 502fb8bd643e2b1b21b4ff9d755606fd
+Ported Model Date : 1752492232 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lurid2
+Source Model Hash : 3b66435458e444aee4082c83885b3da2
+Source Model Date : 1429536897 (2015/04/20)
+
+Ported Model Name : lurid2_v1sc
+Ported Model Hash : 58304ebb4c0679484749807532e974d8
+Ported Model Date : 1752491975 (2025/07/14)

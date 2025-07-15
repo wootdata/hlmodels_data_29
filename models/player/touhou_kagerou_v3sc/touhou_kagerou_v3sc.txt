@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_kagerou_v3
+Source Model Hash : 757fb78ee4823631f7366f9df834a90f
+Source Model Date : 1563797805 (2019/07/22)
+
+Ported Model Name : touhou_kagerou_v3sc
+Ported Model Hash : eca1bac321e10d897a33f084cdb2479b
+Ported Model Date : 1752492439 (2025/07/14)

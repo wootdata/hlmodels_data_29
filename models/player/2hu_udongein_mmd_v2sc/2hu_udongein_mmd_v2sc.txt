@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_udongein_mmd_v2
+Source Model Hash : b992dd7b105e82af36ab7e661412a548
+Source Model Date : 1456263424 (2016/02/23)
+
+Ported Model Name : 2hu_udongein_mmd_v2sc
+Ported Model Hash : cb3227403867d75285afb3a25e272b55
+Ported Model Date : 1752492450 (2025/07/14)

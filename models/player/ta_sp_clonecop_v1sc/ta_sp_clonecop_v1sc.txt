@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_special_clonecop
+Source Model Hash : 879fede683bbeaa38dc984d026b06432
+Source Model Date : 1662794670 (2022/09/10)
+
+Ported Model Name : ta_sp_clonecop_v1sc
+Ported Model Hash : dff85ce9d51ddd65a64634b4f6f09380
+Ported Model Date : 1752492392 (2025/07/14)

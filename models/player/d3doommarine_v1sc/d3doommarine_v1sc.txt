@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : d3doommarine
+Source Model Hash : 7544db2ebcc9eae2df9d919ba5c0438d
+Source Model Date : 1644820956 (2022/02/13)
+
+Ported Model Name : d3doommarine_v1sc
+Ported Model Hash : c99f1a2bd0fa21c2ab7be675737164dd
+Ported Model Date : 1752491575 (2025/07/14)

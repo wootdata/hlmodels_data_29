@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fumolarge
+Source Model Hash : e2296f0aed8c94a7649253c7c1b56af2
+Source Model Date : 1664648314 (2022/10/01)
+
+Ported Model Name : fumolarge_v1sc
+Ported Model Hash : ad308a5f437811bd560f5c368c915644
+Ported Model Date : 1752491663 (2025/07/14)

@@ -1,0 +1,18 @@
+touhou_shinmyou
+
+Model :  kita
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_shinmyou
+Source Model Hash : 3e75923afea2fc5cf51afb65545053f1
+Source Model Date : 1469189072 (2016/07/22)
+
+Ported Model Name : touhou_shinmyou_v1sc
+Ported Model Hash : d89cd400ba1d3791b0cc78d516cc549e
+Ported Model Date : 1752492449 (2025/07/14)

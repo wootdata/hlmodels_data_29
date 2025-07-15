@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_nikooneshot_v2
+Source Model Hash : bcb74f63e75e3600d800791a0241ba5d
+Source Model Date : 1541883034 (2018/11/10)
+
+Ported Model Name : lt_nikooneshot_v2sc
+Ported Model Hash : d14be4a6854fd1085c5a6d87310d39ec
+Ported Model Date : 1752491969 (2025/07/14)

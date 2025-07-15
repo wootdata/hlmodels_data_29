@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_chen
+Source Model Hash : ee2a5c674823d46ef3e8378df415a5ef
+Source Model Date : 1472590740 (2016/08/30)
+
+Ported Model Name : nr_chen_v1sc
+Ported Model Hash : a8b5c324b6d68eccabb97f1fa829d67a
+Ported Model Date : 1752492101 (2025/07/14)

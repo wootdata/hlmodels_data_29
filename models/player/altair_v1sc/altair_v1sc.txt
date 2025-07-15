@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : altair
+Source Model Hash : c12709020f227380e85bf9f4cdeca43c
+Source Model Date : 1287394263 (2010/10/18)
+
+Ported Model Name : altair_v1sc
+Ported Model Hash : 39824f7ab8c5aacefb66cf5397ac3d9d
+Ported Model Date : 1752491355 (2025/07/14)

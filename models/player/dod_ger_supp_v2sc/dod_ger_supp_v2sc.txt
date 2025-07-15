@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_german_support_v2
+Source Model Hash : cc4bc2d4f480e026428788dd738dbdbf
+Source Model Date : 1626344355 (2021/07/15)
+
+Ported Model Name : dod_ger_supp_v2sc
+Ported Model Hash : dc4e0d75e6c50163b2960e8ddc565be8
+Ported Model Date : 1752491616 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wc3arthas
+Source Model Hash : 95dedb6e30e5bc4703dcb5ada7cec572
+Source Model Date : 1611357525 (2021/01/22)
+
+Ported Model Name : wc3arthas_v1sc
+Ported Model Hash : e8310260a324813224940f5d48904fe6
+Ported Model Date : 1752492504 (2025/07/14)

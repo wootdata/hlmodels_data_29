@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eastgang2
+Source Model Hash : 150a27b7e2a14a2cce4d6df1a1a251c0
+Source Model Date : 1264843865 (2010/01/30)
+
+Ported Model Name : eastgang2_v1sc
+Ported Model Hash : a5bb3fa282fc7ce29db98939d9cd695d
+Ported Model Date : 1752491628 (2025/07/14)

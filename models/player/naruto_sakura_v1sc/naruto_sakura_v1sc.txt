@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_sakura
+Source Model Hash : e8e3384e1e00c0f42d9dbf96c9d68b43
+Source Model Date : 1236391738 (2009/03/06)
+
+Ported Model Name : naruto_sakura_v1sc
+Ported Model Hash : c5dedc899ce6de4928fa6a4f1a9be34c
+Ported Model Date : 1752492070 (2025/07/14)

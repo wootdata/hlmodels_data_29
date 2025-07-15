@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_outbreak_yoko
+Source Model Hash : 92e294ffb909cbaf41229d1a1c1d364a
+Source Model Date : 1236232180 (2009/03/04)
+
+Ported Model Name : re_outbreak_yoko_v1sc
+Ported Model Hash : dc63649378cd514cca791507a9772697
+Ported Model Date : 1752492210 (2025/07/14)

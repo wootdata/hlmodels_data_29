@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : clericpreston
+Source Model Hash : 832aa07d2543ee76bb00d1aa3b8bd845
+Source Model Date : 1260859860 (2009/12/14)
+
+Ported Model Name : clericpreston_v1sc
+Ported Model Hash : c7b7857b61192a00b502255ef0c6cada
+Ported Model Date : 1752491482 (2025/07/14)

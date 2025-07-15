@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : schrodinger
+Source Model Hash : 0e8ba6cc31ea4580e4b6b22d895aa5fc
+Source Model Date : 1269799955 (2010/03/28)
+
+Ported Model Name : schrodinger_v1sc
+Ported Model Hash : 1165ea6a5a1f78e7e447ed07592f6ed4
+Ported Model Date : 1752492245 (2025/07/14)

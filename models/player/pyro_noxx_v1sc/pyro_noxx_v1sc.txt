@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pyro_noxx
+Source Model Hash : eb7a6c784e44683d72307a3f35122009
+Source Model Date : 1479157340 (2016/11/14)
+
+Ported Model Name : pyro_noxx_v1sc
+Ported Model Hash : 8e8860e2aecdf0593db1ce1fd60ca72a
+Ported Model Date : 1752492175 (2025/07/14)

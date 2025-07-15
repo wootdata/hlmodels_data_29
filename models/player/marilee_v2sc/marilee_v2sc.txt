@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marilee_v2
+Source Model Hash : 3b32f1b8d8ae6104e52f39e37b602ad5
+Source Model Date : 1583478758 (2020/03/05)
+
+Ported Model Name : marilee_v2sc
+Ported Model Hash : b934952a8795b31ac7958f9fc06c6e29
+Ported Model Date : 1752491985 (2025/07/14)

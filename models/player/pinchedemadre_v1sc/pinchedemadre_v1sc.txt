@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pinchedemadre
+Source Model Hash : d745bf8b0a88a13c67155b59cbe7093f
+Source Model Date : 1590965978 (2020/05/31)
+
+Ported Model Name : pinchedemadre_v1sc
+Ported Model Hash : db89c311900a14aff720eb885f1eb95b
+Ported Model Date : 1752492156 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bananaboy_v3
+Source Model Hash : 3aa1c9e5af0a3a09f966dd5df21a16de
+Source Model Date : 1622850546 (2021/06/04)
+
+Ported Model Name : bananaboy_v3sc
+Ported Model Hash : 4f48f6f4d78aed2cb3592c0b2821d7ca
+Ported Model Date : 1752491400 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tacteq
+Source Model Hash : a6cfcd3b23e26da723d4666855549da5
+Source Model Date : 1267282081 (2010/02/27)
+
+Ported Model Name : tacteq_v1sc
+Ported Model Hash : 1b44296bc2d78c79ac0a9c83a347dc7e
+Ported Model Date : 1752492358 (2025/07/14)

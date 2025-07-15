@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hime_cat_6a
+Source Model Hash : 32d699053dd13d9b337bf49c34c273b9
+Source Model Date : 1722877029 (2024/08/05)
+
+Ported Model Name : hime_cat_6a_v1sc
+Ported Model Hash : e31c209caac2cd018a9104ce77146d0a
+Ported Model Date : 1752491795 (2025/07/14)

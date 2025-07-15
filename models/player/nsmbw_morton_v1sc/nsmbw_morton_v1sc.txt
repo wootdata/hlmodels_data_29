@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nsmbw_morton
+Source Model Hash : eeba9cd17e83e836af4f9ccfb984c278
+Source Model Date : 1494411895 (2017/05/10)
+
+Ported Model Name : nsmbw_morton_v1sc
+Ported Model Hash : 305fdec64b176eeda96aa4b0df43a6fe
+Ported Model Date : 1752492104 (2025/07/14)

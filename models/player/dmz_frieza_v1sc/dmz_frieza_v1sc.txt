@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmz_frieza
+Source Model Hash : 6333fb9b4e766a8befa83c0b11f49f57
+Source Model Date : 1237589404 (2009/03/20)
+
+Ported Model Name : dmz_frieza_v1sc
+Ported Model Hash : 9b657ccd9207c0b131bc399d573498a0
+Ported Model Date : 1752491604 (2025/07/14)

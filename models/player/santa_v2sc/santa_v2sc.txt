@@ -1,0 +1,63 @@
+From: Steve Theodore <stevet@valvesoftware.com>
+To: "'news@planethalflife.com'" <news@planethalflife.com>
+Subject: happy holidays
+Date: Tue, 22 Dec 1998 20:34:07 -0800
+
+I whipped this up in about three hours this afternoon -- it's not too
+fancy but that's what you get for free ;).  Tell people who download it
+that there's no selector bitmap -- they can choose the model from
+console though, by typing "model santa" .  There aren't any remap colors
+on this model --  but this time of year we're used to seeing a santa on
+every corner.  If people want to make their own bitmaps, just call it
+"santa.bmp" and put it in the appropriate folder.
+
+ 
+Happy holidays from me & Valve to the community. Please pass this around
+to relevant sites!
+
+-Steve
+
+PS. model is my (c) 1998.   Free for entertainment use, no paid
+distribution without permission -- you know the drill...
+
+PPS for those who don't know, you can look at models in a single player
+map with the console -- turn on "developer 1" and "thirdperson" (turning
+it off again is "firstperson").  Cam_idealyaw and cam_idealdist will
+control the camera's position.
+
+
+
+----------
+readme.txt
+----------
+
+Santa Multiplayer Selector Bitmap
+
+This is to accompany Steve Theodore's Santa Model
+so it can be selected from the Multiplayer Menu.
+
+Put this santa.bmp in the same folder with the santa.mdl:
+
+\sierra\half-life\valve\models\player\santa
+
+
+Happy Holidays from Wavelength.
+
+Spider
+Wavelength - Half-Life Editing
+http://www.planethalflife.com/wavelength
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : santa_v2
+Source Model Hash : dc92bc361ba3d51e464ccc4cd122b0d6
+Source Model Date : 1591142527 (2020/06/02)
+
+Ported Model Name : santa_v2sc
+Ported Model Hash : c2f40e4bf882702391844c63a7d7921f
+Ported Model Date : 1752492235 (2025/07/14)

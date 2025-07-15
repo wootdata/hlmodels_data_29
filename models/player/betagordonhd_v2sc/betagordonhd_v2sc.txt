@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : betagordonhd_v2
+Source Model Hash : 58ed0d4559f51c97f4154e44ae7d1c94
+Source Model Date : 1537853269 (2018/09/24)
+
+Ported Model Name : betagordonhd_v2sc
+Ported Model Hash : e80d4ae1062c5312453f8ade467fd95c
+Ported Model Date : 1752491425 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fate_jeanne
+Source Model Hash : 9c9bf438069bbf35bd0fe47abde82950
+Source Model Date : 1582439274 (2020/02/22)
+
+Ported Model Name : fate_jeanne_v1sc
+Ported Model Hash : ba31b1a17d8e89c7072590b6f43ea521
+Ported Model Date : 1752491645 (2025/07/14)

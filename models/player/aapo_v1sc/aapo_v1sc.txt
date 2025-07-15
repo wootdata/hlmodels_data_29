@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aapo
+Source Model Hash : c1fa4ab6dc9c416250535e302f101d05
+Source Model Date : 1230540247 (2008/12/29)
+
+Ported Model Name : aapo_v1sc
+Ported Model Hash : caa4c34c03a6f2b63ffb79428f08d536
+Ported Model Date : 1752491328 (2025/07/14)

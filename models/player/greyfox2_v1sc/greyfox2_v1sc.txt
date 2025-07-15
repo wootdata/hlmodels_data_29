@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greyfox2
+Source Model Hash : afa5a925daf8a21c9707a10a0cd4af9a
+Source Model Date : 1265224605 (2010/02/03)
+
+Ported Model Name : greyfox2_v1sc
+Ported Model Hash : 6d0fa83ccf6e00267a772f066eea93ef
+Ported Model Date : 1752491741 (2025/07/14)

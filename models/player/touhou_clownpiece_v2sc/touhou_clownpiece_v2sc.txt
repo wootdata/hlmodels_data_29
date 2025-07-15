@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_clownpiece_v2
+Source Model Hash : 9ecc28831c4784c3d1c583eba1362a00
+Source Model Date : 1582779502 (2020/02/26)
+
+Ported Model Name : touhou_clownpiece_v2sc
+Ported Model Hash : a41b695927e295ee326b302f42a29c24
+Ported Model Date : 1752492436 (2025/07/14)

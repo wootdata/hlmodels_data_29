@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : avp2marine_v2
+Source Model Hash : ae9e5da12a943c56cc75a0b535b7f684
+Source Model Date : 1583586560 (2020/03/07)
+
+Ported Model Name : avp2marine_v2sc
+Ported Model Hash : fd5c9b650b0135eca53a769aa3c1625c
+Ported Model Date : 1752491389 (2025/07/14)

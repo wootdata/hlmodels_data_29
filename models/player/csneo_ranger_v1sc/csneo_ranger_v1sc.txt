@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csneo_ranger
+Source Model Hash : 1a4b2942065b06de61536083f0336e30
+Source Model Date : 1623025763 (2021/06/06)
+
+Ported Model Name : csneo_ranger_v1sc
+Ported Model Hash : 91fcd90365a0ce53c9c43f7039101844
+Ported Model Date : 1752491550 (2025/07/14)

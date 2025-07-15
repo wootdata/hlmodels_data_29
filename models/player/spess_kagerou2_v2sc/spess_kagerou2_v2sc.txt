@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spess_kagerou2_v2
+Source Model Hash : 826b24cffccacbeeb5b420770743d01b
+Source Model Date : 1642698915 (2022/01/20)
+
+Ported Model Name : spess_kagerou2_v2sc
+Ported Model Hash : 45a764e8d38f1ff3cf448ed0ab0bd6ed
+Ported Model Date : 1752492306 (2025/07/14)

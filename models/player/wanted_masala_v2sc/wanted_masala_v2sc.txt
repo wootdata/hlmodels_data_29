@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_masala_v2
+Source Model Hash : 04b92b44dff5faebf70f2dcf28a67be5
+Source Model Date : 1528091485 (2018/06/03)
+
+Ported Model Name : wanted_masala_v2sc
+Ported Model Hash : e20d3db5fc9ed71542a8159aa4d8d63b
+Ported Model Date : 1752492502 (2025/07/14)

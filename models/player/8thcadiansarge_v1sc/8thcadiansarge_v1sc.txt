@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 8thcadiansarge
+Source Model Hash : c6f5c12fa0ec161572516ca68741db5d
+Source Model Date : 1234880658 (2009/02/17)
+
+Ported Model Name : 8thcadiansarge_v1sc
+Ported Model Hash : 0d005f0ee3aff5a7db4874ec7d83a7ae
+Ported Model Date : 1752491325 (2025/07/14)

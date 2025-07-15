@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yoshissb4
+Source Model Hash : 85ac3904fbef798ebba7bc154b6e1395
+Source Model Date : 1681842931 (2023/04/18)
+
+Ported Model Name : yoshissb4_v1sc
+Ported Model Hash : 017380e209006c1207cadf68a2aacd49
+Ported Model Date : 1752492522 (2025/07/14)

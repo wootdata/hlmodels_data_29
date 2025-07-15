@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jasmine
+Source Model Hash : 9796101029b1475b303a380c60a2ca9d
+Source Model Date : 1263924312 (2010/01/19)
+
+Ported Model Name : jasmine_v1sc
+Ported Model Hash : c6e439ccf26df64286d96ce9167e9246
+Ported Model Date : 1752491858 (2025/07/14)

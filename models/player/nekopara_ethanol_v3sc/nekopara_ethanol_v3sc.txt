@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekopara_ethanol_v3
+Source Model Hash : 5a0900de3aa05ee89abbb0850c7f88db
+Source Model Date : 1583186764 (2020/03/02)
+
+Ported Model Name : nekopara_ethanol_v3sc
+Ported Model Hash : 6074242a3487f0225a6c664844a64865
+Ported Model Date : 1752492086 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gawr_gura_reaper
+Source Model Hash : 5a86b16c86a7b4699cb940c420088c2e
+Source Model Date : 1618771240 (2021/04/18)
+
+Ported Model Name : gawr_gura_reaper_v1sc
+Ported Model Hash : c1f7fdbdc735dee750ee7913552adab3
+Ported Model Date : 1752491673 (2025/07/14)

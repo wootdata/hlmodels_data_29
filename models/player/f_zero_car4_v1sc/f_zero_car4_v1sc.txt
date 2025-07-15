@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : f_zero_car4
+Source Model Hash : caa97a1c74938d039c2b213effe12789
+Source Model Date : 1244974832 (2009/06/14)
+
+Ported Model Name : f_zero_car4_v1sc
+Ported Model Hash : 936d692963164be347cef7f88fbfe29f
+Ported Model Date : 1752491665 (2025/07/14)

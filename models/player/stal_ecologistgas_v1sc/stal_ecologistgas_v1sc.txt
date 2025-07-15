@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_ecologistgas
+Source Model Hash : 2463bf4f5f5107a5b6573d64ae7215a0
+Source Model Date : 1273903314 (2010/05/14)
+
+Ported Model Name : stal_ecologistgas_v1sc
+Ported Model Hash : a7321bc4b5f444e383fda27213681d9e
+Ported Model Date : 1752492329 (2025/07/14)

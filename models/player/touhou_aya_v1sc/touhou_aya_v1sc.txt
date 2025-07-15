@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_aya
+Source Model Hash : 0c21447b9dae2ee0c0fd84d9fac3e7a6
+Source Model Date : 1456260518 (2016/02/23)
+
+Ported Model Name : touhou_aya_v1sc
+Ported Model Hash : b574f10056afbe88ec9695fbde4fa454
+Ported Model Date : 1752492434 (2025/07/14)

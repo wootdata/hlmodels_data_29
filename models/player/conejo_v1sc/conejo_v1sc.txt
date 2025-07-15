@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : conejo
+Source Model Hash : 1e8e864904c09720e007b195f9ace314
+Source Model Date : 1577997670 (2020/01/02)
+
+Ported Model Name : conejo_v1sc
+Ported Model Hash : f6eda186475f1b1caf766bb028425772
+Ported Model Date : 1752491520 (2025/07/14)

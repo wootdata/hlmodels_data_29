@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkcream
+Source Model Hash : 41ab55f929b2a29bde918b5a1e5e0996
+Source Model Date : 1425654831 (2015/03/06)
+
+Ported Model Name : darkcream_v1sc
+Ported Model Hash : 5aeddb2a1a70af3930dcdc0def27c29f
+Ported Model Date : 1752491578 (2025/07/14)

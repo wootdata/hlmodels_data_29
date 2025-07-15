@@ -1,0 +1,20 @@
+Alcatraz from Crysis 2.
+
+Models and textures: CryTek
+Ripped by: ForrestPL (http://thefree3dmodels.com/stuff/characters/crysis_2_nanosuit_2/14-1-0-947)
+Converted to SC: Long John Silver
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alcatraz_v2
+Source Model Hash : 053806de1d2980b9f4458ebe262e569c
+Source Model Date : 1549743915 (2019/02/09)
+
+Ported Model Name : alcatraz_v2sc
+Ported Model Hash : 8edb06093d9f1b6ab44ad0cae8a48f31
+Ported Model Date : 1752491351 (2025/07/14)

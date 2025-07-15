@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_antigaskiller6
+Source Model Hash : c27fef85efcad7ac00978a8865f0ae98
+Source Model Date : 1456809008 (2016/02/29)
+
+Ported Model Name : st_antigaskiller6_v1sc
+Ported Model Hash : f5d9b3f55ed0713628216e908664fd90
+Ported Model Date : 1752492324 (2025/07/14)

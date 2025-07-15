@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ying_street_v1
+Source Model Hash : 726adbe09bab8a8cb105e6e2f1d24433
+Source Model Date : 1639481049 (2021/12/14)
+
+Ported Model Name : ying_street_v1sc
+Ported Model Hash : f81d6db35abb6c0b66c61de3d38f0af7
+Ported Model Date : 1752492520 (2025/07/14)

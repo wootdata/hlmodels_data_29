@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kit
+Source Model Hash : e6f433a226a608b315d111a09024b337
+Source Model Date : 1263492656 (2010/01/14)
+
+Ported Model Name : kit_v1sc
+Ported Model Hash : 125b54ba96441d4e9e7b5e5dc10dcb23
+Ported Model Date : 1752491890 (2025/07/14)

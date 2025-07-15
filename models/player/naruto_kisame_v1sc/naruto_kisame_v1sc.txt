@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_kisame
+Source Model Hash : 096f169d3febeef22171e75f8f7dfdbc
+Source Model Date : 1236390878 (2009/03/06)
+
+Ported Model Name : naruto_kisame_v1sc
+Ported Model Hash : df7d7293c34639410c695206b21d9146
+Ported Model Date : 1752492069 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tails_dark_s5_v2
+Source Model Hash : e0b648fe0a1667ac1bfdcf524c210ed7
+Source Model Date : 1702915285 (2023/12/18)
+
+Ported Model Name : tails_dark_s5_v2sc
+Ported Model Hash : b6320021a61201a78a65ab62e47635d0
+Ported Model Date : 1752492358 (2025/07/14)

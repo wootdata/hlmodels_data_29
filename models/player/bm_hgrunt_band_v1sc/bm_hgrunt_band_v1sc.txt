@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bm_hgrunt_band
+Source Model Hash : 0d0b0781d47a53fc08c7afe5f285f2c3
+Source Model Date : 1522911392 (2018/04/04)
+
+Ported Model Name : bm_hgrunt_band_v1sc
+Ported Model Hash : 579a9b09e7e3076c2b97866a7273034d
+Ported Model Date : 1752491440 (2025/07/14)

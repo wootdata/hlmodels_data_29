@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armyman_medic
+Source Model Hash : b22e0040692882c699b7d5cc417ea0fe
+Source Model Date : 1577391621 (2019/12/26)
+
+Ported Model Name : armyman_medic_v1sc
+Ported Model Hash : 6cb91375c7cfc9ecc9b18f6a8f817c1b
+Ported Model Date : 1752491377 (2025/07/14)

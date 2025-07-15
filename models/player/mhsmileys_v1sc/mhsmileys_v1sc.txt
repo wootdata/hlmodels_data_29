@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhsmileys
+Source Model Hash : c7e230523e0451acdde4096c542ad436
+Source Model Date : 1629416320 (2021/08/19)
+
+Ported Model Name : mhsmileys_v1sc
+Ported Model Hash : d26ed091d829d5d8eb0aba230edd946b
+Ported Model Date : 1752492013 (2025/07/14)

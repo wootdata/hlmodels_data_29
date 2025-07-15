@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cobra
+Source Model Hash : d470d7b689e97e0618b14ba53ee1ce33
+Source Model Date : 1672093500 (2022/12/26)
+
+Ported Model Name : cobra_v1sc
+Ported Model Hash : f4de5c09fd3033d765308309804b8bd4
+Ported Model Date : 1752491491 (2025/07/14)

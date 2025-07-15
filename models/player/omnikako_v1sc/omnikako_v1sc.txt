@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : omnikako
+Source Model Hash : d7700d83197ab6731f49b97fc20f40fb
+Source Model Date : 1264756498 (2010/01/29)
+
+Ported Model Name : omnikako_v1sc
+Ported Model Hash : 77adc699225e32d6073f2861dc43a270
+Ported Model Date : 1752492116 (2025/07/14)

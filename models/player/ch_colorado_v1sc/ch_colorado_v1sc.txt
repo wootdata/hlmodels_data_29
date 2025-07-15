@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ch_colorado
+Source Model Hash : 425cbe7b8d7e54c405ea5dca1ea4f3dd
+Source Model Date : 1637874787 (2021/11/25)
+
+Ported Model Name : ch_colorado_v1sc
+Ported Model Hash : c7ec50eb0989a1098c9b1b2346bf41ff
+Ported Model Date : 1752491475 (2025/07/14)

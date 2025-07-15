@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : otishev
+Source Model Hash : 1c2f04c666e0bd5aa1884591b6d73349
+Source Model Date : 1264765858 (2010/01/29)
+
+Ported Model Name : otishev_v1sc
+Ported Model Hash : baa659467a9ce81712307124f80640b3
+Ported Model Date : 1752492134 (2025/07/14)

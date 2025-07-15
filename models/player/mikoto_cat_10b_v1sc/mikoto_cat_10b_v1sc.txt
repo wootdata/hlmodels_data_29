@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikoto_cat_10b
+Source Model Hash : b9e4dae0a25fb9bf388b30c0a2fc7151
+Source Model Date : 1691949727 (2023/08/13)
+
+Ported Model Name : mikoto_cat_10b_v1sc
+Ported Model Hash : fdf1e873e88ed38120ea4a3329f0ab82
+Ported Model Date : 1752492018 (2025/07/14)

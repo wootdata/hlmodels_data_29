@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : reptilemk
+Source Model Hash : 726fc2edc1b358f811a0c5b1c795337e
+Source Model Date : 1591059575 (2020/06/01)
+
+Ported Model Name : reptilemk_v1sc
+Ported Model Hash : c7db38eec8a7fc1f38042c77205c2bd7
+Ported Model Date : 1752492199 (2025/07/14)

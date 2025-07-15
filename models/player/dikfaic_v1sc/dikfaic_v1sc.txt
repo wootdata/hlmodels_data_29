@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dikfaic
+Source Model Hash : 744400f8374096b0ba8596b2b8ef0894
+Source Model Date : 1266938188 (2010/02/23)
+
+Ported Model Name : dikfaic_v1sc
+Ported Model Hash : c85af32d00dedd20bdbcfc5aeef827c5
+Ported Model Date : 1752491598 (2025/07/14)

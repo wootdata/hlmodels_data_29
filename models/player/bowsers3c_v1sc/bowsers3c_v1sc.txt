@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bowsers3c
+Source Model Hash : 41a32011fc11e086c2ea4b6c93ee67de
+Source Model Date : 1681836677 (2023/04/18)
+
+Ported Model Name : bowsers3c_v1sc
+Ported Model Hash : e4c0e1a65473b0daaa4ea36faea406d7
+Ported Model Date : 1752491445 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_uboa
+Source Model Hash : aa1e1b8d963189f2cdc18b766ca23f2c
+Source Model Date : 1230296270 (2008/12/26)
+
+Ported Model Name : afterlife_uboa_v1sc
+Ported Model Hash : c889e2ae6e340842f1723f3684339935
+Ported Model Date : 1752491337 (2025/07/14)

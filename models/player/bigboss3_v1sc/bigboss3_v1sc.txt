@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigboss3
+Source Model Hash : 33d5806515322e9b7a2a4ad1716b1454
+Source Model Date : 1457125606 (2016/03/04)
+
+Ported Model Name : bigboss3_v1sc
+Ported Model Hash : e8708a1d8da0f0e29bc6aad8a229fa78
+Ported Model Date : 1752491428 (2025/07/14)

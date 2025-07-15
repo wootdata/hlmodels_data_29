@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : russgreen_v2
+Source Model Hash : 91f8633cb02eaaef7057cbb82f6b00cf
+Source Model Date : 1583906971 (2020/03/10)
+
+Ported Model Name : russgreen_v2sc
+Ported Model Hash : 2da271ac0e1fd3b380a0d55e7fe9475f
+Ported Model Date : 1752492225 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darktails_sc4
+Source Model Hash : 6c522a8bea338852bafbe80856880f2f
+Source Model Date : 1386967778 (2013/12/13)
+
+Ported Model Name : darktails_sc4_v1sc
+Ported Model Hash : b58306c8063646296bf60899a282df29
+Ported Model Date : 1752491580 (2025/07/14)

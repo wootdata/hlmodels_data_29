@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zorak
+Source Model Hash : 170a33b68d4a8d2a15825b661ea47c0c
+Source Model Date : 1263318940 (2010/01/12)
+
+Ported Model Name : zorak_v1sc
+Ported Model Hash : 22d2e1101003e627aa084788e7c701e6
+Ported Model Date : 1752492534 (2025/07/14)

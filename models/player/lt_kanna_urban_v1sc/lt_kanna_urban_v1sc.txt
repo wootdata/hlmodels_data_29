@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_kanna_urban
+Source Model Hash : cdae30b784e0c1ca62db3d2a9641218f
+Source Model Date : 1612337013 (2021/02/02)
+
+Ported Model Name : lt_kanna_urban_v1sc
+Ported Model Hash : fb2b237f7bc12778514cb3e81ea1c60b
+Ported Model Date : 1752491969 (2025/07/14)

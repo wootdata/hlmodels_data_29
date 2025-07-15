@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : remus
+Source Model Hash : 77f57697471c8237ca56e62a2eab4007
+Source Model Date : 1269354134 (2010/03/23)
+
+Ported Model Name : remus_v1sc
+Ported Model Hash : c2bc1ee625666e0907e81a5e1af94fab
+Ported Model Date : 1752492198 (2025/07/14)

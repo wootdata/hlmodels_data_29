@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_advisor_armor
+Source Model Hash : 208d8006d0a69edb1ea4f4a1c6f27d0c
+Source Model Date : 1631385929 (2021/09/11)
+
+Ported Model Name : tace_advisr_arm_v1sc
+Ported Model Hash : ee65fded252553381882e009ca489602
+Ported Model Date : 1752492365 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fur1_v2
+Source Model Hash : 3ba841e4cf6c847d2067b81e09550a9c
+Source Model Date : 1583876489 (2020/03/10)
+
+Ported Model Name : fur1_v2sc
+Ported Model Hash : 31bbc20e4057933d1313ae3476e54dd7
+Ported Model Date : 1752491663 (2025/07/14)

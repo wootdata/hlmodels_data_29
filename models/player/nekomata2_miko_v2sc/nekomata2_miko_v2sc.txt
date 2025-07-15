@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata2_miko_v2
+Source Model Hash : 2544ba1b83d0ba0dcd7e80b09adaf51a
+Source Model Date : 1583402896 (2020/03/05)
+
+Ported Model Name : nekomata2_miko_v2sc
+Ported Model Hash : 3ef4178a2e7efef851c7e1d4ca7c644a
+Ported Model Date : 1752492078 (2025/07/14)

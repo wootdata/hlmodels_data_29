@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : luiginocapodyssey
+Source Model Hash : d3f4eff2f8b28eba6416cd5cc2c1dd0b
+Source Model Date : 1681840971 (2023/04/18)
+
+Ported Model Name : luiginocapodyssey_v1sc
+Ported Model Hash : ee5f6002d260b56dd259becf7a5174b7
+Ported Model Date : 1752491973 (2025/07/14)

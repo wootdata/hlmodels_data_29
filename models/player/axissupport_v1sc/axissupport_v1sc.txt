@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axissupport
+Source Model Hash : 5369d1644c9a1be86d19c0e27e7b6b38
+Source Model Date : 1264599429 (2010/01/27)
+
+Ported Model Name : axissupport_v1sc
+Ported Model Hash : e3252d5deae10e52a5e0287b6c00e99e
+Ported Model Date : 1752491392 (2025/07/14)

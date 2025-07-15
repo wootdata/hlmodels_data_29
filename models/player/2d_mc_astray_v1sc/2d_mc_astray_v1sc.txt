@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_mc_astray
+Source Model Hash : 0ba1367801196c71556da9edcec137fb
+Source Model Date : 1542272480 (2018/11/15)
+
+Ported Model Name : 2d_mc_astray_v1sc
+Ported Model Hash : 8671a60b6215810029ddd9fb2cf19877
+Ported Model Date : 1752491315 (2025/07/14)

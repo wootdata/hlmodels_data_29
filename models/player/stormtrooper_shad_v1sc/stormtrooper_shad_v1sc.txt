@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stormtrooper_shadow
+Source Model Hash : 06e8323f2649f7985a8ae14bb64489c0
+Source Model Date : 1654592900 (2022/06/07)
+
+Ported Model Name : stormtrooper_shad_v1sc
+Ported Model Hash : 2d70ee107c4e30d40262c9ee57f46c91
+Ported Model Date : 1752492348 (2025/07/14)
