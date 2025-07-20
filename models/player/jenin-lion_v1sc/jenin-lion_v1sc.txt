@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jenin-lion
+Source Model Hash : 0491b1eb004a25cf92eab5fccf47b06d
+Source Model Date : 1752255852 (2025/07/11)
+
+Ported Model Name : jenin-lion_v1sc
+Ported Model Hash : 5805158223cced95a83b880769472a16
+Ported Model Date : 1752991537 (2025/07/19)
