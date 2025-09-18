@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krd_marid_school
+Source Model Hash : 929691870fbb87d53ff0dac3a339d94c
+Source Model Date : 1756949205 (2025/09/03)
+
+Ported Model Name : krd_marid_school_v1sc
+Ported Model Hash : cd67dee2e6b9044fc7acbc7a18ccf734
+Ported Model Date : 1758225760 (2025/09/18)

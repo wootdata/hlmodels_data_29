@@ -188,7 +188,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223633,
+	"date": 1758225775,
 	"events": [
 		{
 			"event": 5011,
@@ -463,8 +463,8 @@
 	"metahook_ragdoll": false,
 	"modid": 2,
 	"name": "Z_TADC_Zooble.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

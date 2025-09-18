@@ -238,7 +238,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223625,
+	"date": 1758225760,
 	"events": [
 		{
 			"event": 5005,
@@ -499,8 +499,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "KRD_Marid_School.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
