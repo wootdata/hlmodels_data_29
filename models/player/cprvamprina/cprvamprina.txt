@@ -1,0 +1,33 @@
+ver 1.0 Final 
+Thank you for downloading "CPR Extreme HalfLife Skin pack #1", the official DM Skins of 
+"CPRman" (http://www.cprextreme.com/) 
+
+CPR's Deathmatch Models
+
+Just extract to your \sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.<<<<DO NOT ALTER IN ANAY WAY>>>
+If you do they will not be valid Skins in multi-player events.>
+Well that's all there is to it..<p.s.>Visuals included
+
+Skins:
+CPR Bite Me
+CPR2 (squared)
+CPR Grunt
+CPR MadSci
+CPR Ninja
+
+
+"CPR Extreme" (http://www.cprextreme.com)
+
+Special Thanks to everyone who helped...
+	p.s. This is a FREE PUBLIC add-on for the retail Sierra game HalfLife. CPR Extreme is not responsible for anything in anyway.
+
+

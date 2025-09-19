@@ -1,0 +1,46 @@
+Enclosed files are:
+drackon.mdl, drackon2.mdl
+drackon.bmp, drackon2.bmp
+this file.
+
+<DESCRIPTION>
+Erm...not really a description. It is a character that I made up, more specifically a race. It is an alien descendent of the Dragons. Drackon is
+not just a specific name, if I were to name the model itself, maybe Hambone?
+Lol joking :) 
+
+
+<SPECS>
+343 triangles
+173 vertices
+1 256X256 skin <not too much wasted space>
+1 128x256 skin <there is some wasted space on this one ): >
+
+There are some deformation problems in the arms. Not majorly though.
+Bamphalas made a colorized version of my skin which I have also included.
+Just in case mine doesn't suit you :)
+Also I am looking for someone to custom animate it...I had to adjust it to fit the valve biped which sucks..and I have no time to animate it anymore, so if you want to contact me!
+vykk_draygo@al.isc.tamu.edu is my e-mail.
+[GH]Vykk Draygo is my name :)
+
+<CREDITS>
+Bamphalas for help on the skin.
+Scarecrow for thoose awesom tutorials.
+The CF regulars that responded to my post and supported me.
+My clan GH <GUARDIAN HEROES>, they rule!
+Me because I made this model :)
+And all thoose other people who are cool out there...no not you! ;)
+
+
+
+
+<LEGAL STUFFES>
+Basically, Valve ownz Half-Life not me :) Yet I own the model, and the original skin. As well as the rights to my race <Drackon> and Hambone, 
+just because it's a cool name. You may not use this mesh in anyway without my permission. You may not reskin it with out my permission. However just ask...I'm a nice kinda guy :)
+
+<NEWBIE INSTALLATION GUIDE>
+Go to your Half-Life\Valve directory.
+Open up the folder called "Models" then open up "Players"
+Creat two new folders. One called drackon, the other drackon2.
+NO CAPS! Select the files that match their names, and extract 
+them into the new folders. For example, drackon.mdl goes into
+the drackon folder, not drackon2 :)

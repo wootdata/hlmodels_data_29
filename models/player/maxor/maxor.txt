@@ -1,0 +1,11 @@
+Skinner/Modeller: 3xsistenZ
+Skin Name: M@xor
+Model Used: Maxorized,By Me
+Textures: Made With PSP 6.0
+
+Installation of Plugin
+
+Create a folder called Maxor in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+mail: fzas@usa.net

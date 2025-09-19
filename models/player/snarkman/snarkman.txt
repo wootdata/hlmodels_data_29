@@ -1,0 +1,11 @@
+Snarkman by "~SS~Amra"
+John Cavallaro
+deathpoet1@erols.com
+3/13/99
+
+
+This is a model I made for my clan which is ~SS~
+and stands for Snark Syndicate.  I was gonna
+keep it member only, but I have decided to 
+make it available for everyone to use. 
+To install place the mdl and bmp files in: \sierra\half-life\valve\models\player\snarkman\

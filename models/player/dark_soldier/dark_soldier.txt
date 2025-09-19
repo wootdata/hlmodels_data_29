@@ -1,0 +1,10 @@
+                         Dark_Soldier
+
+A Soldier(TFC) colour change, Dark_soldier
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\Dark_Soldier  folder
+
+
+         FYA    MARQUIS   for skins (m.haly@cwcom.net) 25/7/99

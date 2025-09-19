@@ -1,0 +1,15 @@
+Skinner: SlimReapeR
+Skin Name: Paco
+Model Used: Arm by Evil Bastard
+
+
+
+Installation of Plugin
+
+Create a folder called paco in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
