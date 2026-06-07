@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alinrimos22
+Source Model Hash : d7b3d9460a8574a913572ae1b58c50a7
+Source Model Date : 1775432070 (2026/04/05)
+
+Ported Model Name : alinrimos22_v1sc
+Ported Model Hash : ddee3c00563b90c7926b29a6135a85f6
+Ported Model Date : 1780823013 (2026/06/07)
